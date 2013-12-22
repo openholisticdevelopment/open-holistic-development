@@ -14,8 +14,12 @@ open-integrative-development
 * Health Development
 * Nutrition
 * Permaculture
+* Biology
+* Mathematics
+* Physics
 * Technology
 * Computer Science
 * Money
 * Economy
+* Entrepreneurship
 * ...
