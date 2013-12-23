@@ -23,4 +23,8 @@ open-integrative-development
 * Economy
 * Entrepreneurship
 * Music
+* Building
+* City & Village design
+* Community
+* Processes
 * ...
