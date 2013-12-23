@@ -22,4 +22,5 @@ open-integrative-development
 * Money
 * Economy
 * Entrepreneurship
+* Music
 * ...
