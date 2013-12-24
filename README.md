@@ -4,7 +4,7 @@ open-integrative-development
 ## Topics
 
 * Being
-* Love
+* Love, Heart, Intuition
 * Acceptance
 * System Thinking
 * Personal Development
