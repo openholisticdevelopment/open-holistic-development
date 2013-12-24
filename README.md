@@ -12,6 +12,7 @@ open-integrative-development
 * Relationships
 * Thoughts & Believes
 * Health Development
+* Human Development (Birth, Child, Teen, Adult)
 * Nutrition
 * Permaculture
 * Biology
