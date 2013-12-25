@@ -11,3 +11,4 @@ to transition into a society of free and open knowledge.
 
 * [How the FLOK Society Brings a Commons Approach to Ecuador’s Economy](http://www.shareable.net/blog/how-the-flok-society-brings-a-commons-approach-to-ecuador%E2%80%99s-economy)
 * [Ecuador, Open Knowledge, and ‘Buen Vivir’: Interview With Michel Bauwens](http://www.doorsofperception.com/notopic/ecuador-open-knowledge-and-buen-vivir-interview-with-michel-bauwens/)
+* [Wiki](http://en.wiki.floksociety.org/)
