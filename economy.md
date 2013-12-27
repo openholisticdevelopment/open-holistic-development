@@ -1,6 +1,11 @@
 ## Money
 
 * [Money as commons](http://www.youtube.com/watch?v=H5paen0ayI8&feature=share&list=PLiO9RvnsUfkatF08AS-5t1PJSU35khJ3S&index=5)
+*
+
+## Companies
+
+* [Open Company](http://www.opencompany.biz/), [The first Open Company](http://blog.gittip.com/post/26350459746/the-first-open-company)
 
 
 ## Countries
