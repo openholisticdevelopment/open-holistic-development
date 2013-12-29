@@ -29,3 +29,11 @@ open-integrative-development
 * Community
 * Processes
 * ...
+
+
+## Use
+
+## Create a folder
+
+* Create a new file or edit a file
+* Enter in the file name ``DirectoryName/`` and then the file name. On save, GitHub will automatically create the directory ``DirectoryName/`` containing file with the given file name.
