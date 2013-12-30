@@ -8,7 +8,7 @@ open-integrative-development
 * Integrity
 * Acceptance 
 * Freedom, Sharing, Giving, Receiving
-* Ethics
+* Ethics, Human Dignity
 * Interconnectedness
 * System Thinking
 * Personal Development
