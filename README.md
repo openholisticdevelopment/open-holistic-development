@@ -20,6 +20,7 @@ open-integrative-development
 * Human Development (Birth, Child, Teen, Adult)
 * Nutrition
 * Permaculture
+* Ecology
 * Biology
 * Mathematics
 * Physics
