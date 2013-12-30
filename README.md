@@ -3,12 +3,17 @@ open-integrative-development
 
 ## Topics
 
-* Being
+* Being, Awareness
 * Love, Heart, Intuition
-* Acceptance
+* Integrity
+* Acceptance 
+* Freedom, Sharing, Giving, Receiving
+* Ethics
+* Interconnectedness
 * System Thinking
 * Personal Development
 * Societal Development
+* Communication
 * Relationships
 * Thoughts & Believes
 * Health Development
