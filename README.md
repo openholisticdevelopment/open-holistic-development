@@ -5,10 +5,10 @@ open-integrative-development
 
 * Being, Awareness
 * Love, Heart, Intuition
-* Integrity
-* Acceptance 
+* Integrity, Transparency
+* Acceptance
 * Freedom, Sharing, Giving, Receiving
-* Ethics, Human Dignity
+* Ethics, Human Dignity, Solidarity, Social Justice
 * Interconnectedness
 * System Thinking
 * Personal Development
@@ -32,6 +32,7 @@ open-integrative-development
 * Building
 * City & Village design
 * Community
+* Democracy
 * Processes
 * ...
 
