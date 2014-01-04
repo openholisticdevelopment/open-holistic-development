@@ -1,6 +1,10 @@
 open-integrative-development
 ============================
 
+## Warning
+
+This page is under construction!
+
 ## Process
 
 ### The Big Picture
@@ -69,11 +73,22 @@ Possible outputs:
 
 * Big Picture Communication:
     * Every idea can be described in one sentence, in one paragraph, in a picture (e.g. before/after or big picture), linked to further explanation/details.
-* Easy to understand, do, share and develop
+* Easy to understand, share, do and develop
 * Systemic communication and teaching/sharing
 * Connected to real life as much as possible
 * applicable throughout time (every day and after dozens of years)
 * Open Source
+
+
+## Desired Outcomes
+
+* provide the big picture with the "best practices"
+* system understanding
+* inspire
+* provde concrete steps people can take now to improve in every area
+* a book I can give to my neighbor, brother, mother and father.
+* living acions are most important. How to create and spread them?
+
  
 ## Organization
 
@@ -90,6 +105,23 @@ Possible outputs:
 
 * open source research and learning
 * e.g. 27 countries on 5 continents (incl. translations)
+* 
+
+## Berlin
+
+
+* start with local events and open source reasearch
+* possible themes:
+    * Love, Heart, Intuition, Acceptance, Being (Jan)
+    * System Thinking (Feb)
+    * Economy (March)
+    * Entrepreneurship (April)
+* Weekly Rhythm:
+    * once in Monday-Thursday: info meeting
+    * Friday night - get together
+    * Satuday - learn together
+* location: [ThinkFarm](http://berlin.thinkfarm.de/)
+
 
 
 ## Use
