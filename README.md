@@ -12,8 +12,10 @@ This page is under construction!
 * Research - open, constant, learning, experiental
 * Personal and Societal development, see the Topics
 * Actions for every topic / area of life.
-* Source the best literature, examples
+* Source the best (big picture/best practices) literature and examples
     * ask people what their favorite books are, what influenced them profoundly.
+    * ask experts.
+    * check Timm Ferris' way of learning and asking questions.
     * ...
 
 ### Quality Questions
