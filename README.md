@@ -22,13 +22,12 @@ This page is under construction!
 ### Outputs
 Possible outputs:
 
-* book for audults and teens
+* book for audults, teens, kids
+* A4 printable sheets
 * infographics
 * videos, pictures, audio,
-* A4 printable sheets
-* blog posts, status updates
 * film
-
+* blog posts, status updates
 
 ## Topics
 
@@ -104,8 +103,8 @@ Possible outputs:
 ### Globally
 
 * open source research and learning
+* virtual hangouts
 * e.g. 27 countries on 5 continents (incl. translations)
-* 
 
 ## Berlin
 
