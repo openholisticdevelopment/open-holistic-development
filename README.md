@@ -27,6 +27,7 @@ This page is under construction!
 ### Outputs
 Possible outputs:
 
+* I know and understand what are the best development possibilities in every area of life and know what actions I can undertake to improve.
 * book for audults, teens, kids
 * A4 printable sheets
 * infographics
