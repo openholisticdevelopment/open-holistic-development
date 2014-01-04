@@ -9,6 +9,12 @@ open-integrative-development
 * Personal and Societal development, see the Topics
 * Actions for every topic / area of life.
 
+### Quality Questions
+
+* If you die tomorrow, what will you share to humanity?
+* What are the topics that everyone on Earth should know about?
+* ...
+
 ### Outputs
 Possible outputs:
 
