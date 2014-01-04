@@ -86,6 +86,12 @@ Possible outputs:
 * interviews?
 
 
+### Globally
+
+* open source research and learning
+* e.g. 27 countries on 5 continents (incl. translations)
+
+
 ## Use
 
 ## Create a folder
