@@ -1,6 +1,25 @@
 open-integrative-development
 ============================
 
+## Process
+
+### The Big Picture
+
+* Research - open, constant, learning, experiental
+* Personal and Societal development, see the Topics
+* Actions for every topic / area of life.
+
+### Outputs
+Possible outputs:
+
+* book for audults and teens
+* infographics
+* videos, pictures, audio,
+* A4 printable sheets
+* blog posts, status updates
+* film
+
+
 ## Topics
 
 * Being, Awareness
@@ -12,6 +31,8 @@ open-integrative-development
 * Interconnectedness
 * System Thinking
 * Personal Development
+    * do your best every day.
+    * develop the qualities of exceptional people.
 * Societal Development
 * Communication
 * Relationships
@@ -36,6 +57,27 @@ open-integrative-development
 * Democracy
 * Processes
 * ...
+* 
+
+## Principles
+
+* Big Picture Communication:
+    * Every idea can be described in one sentence, in one paragraph, in a picture (e.g. before/after or big picture), linked to further explanation/details.
+* Easy to understand, do, share and develop
+* Systemic communication and teaching/sharing
+* Connected to real life as much as possible
+* applicable throughout time (every day and after dozens of years)
+* Open Source
+ 
+## Organization
+
+
+### Local events
+
+* Open Study Groups (see [Pools of Insight: A Pattern Language for Study Group](http://www.industriallogic.com/wp-content/uploads/2012/03/khdraft1.pdf))
+* film nights
+* dialogues, presentations
+* interviews?
 
 
 ## Use
