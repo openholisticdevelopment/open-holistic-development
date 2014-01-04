@@ -12,6 +12,9 @@ This page is under construction!
 * Research - open, constant, learning, experiental
 * Personal and Societal development, see the Topics
 * Actions for every topic / area of life.
+* Source the best literature, examples
+    * ask people what their favorite books are, what influenced them profoundly.
+    * ...
 
 ### Quality Questions
 
