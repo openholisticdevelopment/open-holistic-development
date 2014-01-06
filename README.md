@@ -1,46 +1,49 @@
 Open Holistic Development
 ============================
 
-## Introduction
+## Vision
 
-**Holistic Development** means that we are developing ourselves holistically, not in one or few directions, but we are looking at the totality of Life and develop the best we can in every area of Life. **Open** means that development is shared, free and open for everyone to create, improve, spread, participate, etc, virtually and phyisically.
+### Introduction
 
-## Areas of Life
+**Holistic Development** means that we are developing ourselves holistically, not in one or few areas, but we are looking at the totality of Life, ask ourselves what we love most and what we are curious about, and dive into it. We learn the most beneficial practices and apply them in our lives and relationships. **Open** means that the development is shared, free and openly for everyone to create, improve, spread, participate, etc, virtually and phyisically.
+
+### Areas of Life
 
 We, personally and collectively, want to develop in all areas of life that are beneficial for our personal and societal development. Here are few examples:
 
-* Being, Awareness
-* Love, Heart, Intuition
-* Acceptance
-* Integrity, Transparency
+
+* Being, Awareness, Love, Heart, Intuition
+* Acceptance, Integrity, Transparency
 * Freedom, Sharing, Giving, Receiving
 * Ethics, Human Dignity, Solidarity, Social Justice
-* Interconnectedness
-* System Thinking
+* Interconnectedness, System Thinking
 * Personal Development
-* Communication
-* Relationships
-* Health Development
-* Human Development (Birth, Child, Teen, Adult)
-* Nutrition
+* Communication, Relationships
+* Health Development, Nutrition
 * Ecology, Permaculture, Biology, Mathematics, Physics
-* Technology, Computer Science
+* Technology, Computer Science, Design
 * Economy, Money
-* Entrepreneurship, Oraganizations
-* Building, Design
-* Community, Group processes
-* Democracy
-* Music
-* Pratical Skills
+* Entrepreneurship, Organizations
+* Community, Group processes, Decision Making
+* Music, Pratical Skills
 * ...
-* 
+
+## How
+
+### Virtually
+
+
+
+### Physically
+
+
 
 
 ## Process
 
 ### The Big Picture
 
-* Research - open, constant, learning, experiental
+* Research - open, life-long, experiental
 * Personal and Societal development, see the Topics
 * Actions for every topic / area of life.
 * Source the best (big picture/best practices) literature and examples
