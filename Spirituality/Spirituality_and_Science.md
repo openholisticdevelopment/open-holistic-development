@@ -11,4 +11,4 @@
 
 ## Emotions
 
-* [Karte der Gefühle](http://www.sueddeutsche.de/gesundheit/koerper-und-emotionen-karte-der-gefuehle-1.1854431)
+* [Bodily maps of emotions](http://www.pnas.org/content/early/2013/12/26/1321664111.full.pdf+html?with-ds=yes), [Karte der Gefühle](http://www.sueddeutsche.de/gesundheit/koerper-und-emotionen-karte-der-gefuehle-1.1854431)
