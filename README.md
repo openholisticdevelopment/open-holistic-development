@@ -32,17 +32,19 @@ We develop personally and collectively in all important and beneficial areas of 
 
 We look at the totality of Life, ask ourselves what we love and what we are curious about, and dive into it.
 
-### Virtually
+* learn
+* do
+* share
 
 We save all our research and all important learnings in [this GitHub repository](https://github.com/openholisticdevelopment/openholisticdevelopment). We do our best to communicate our learnings by simple, understandable and easily memorable:
 
-* articles
-* infographics
-* A4 printable sheets
-* videos and pictures
-* music, dances
+* A4 printable sheets - to be printed and posted at home and work
+* infographics - to be shared online
+* articles, videos and pictures
+* music, dances - for the body and senses
+* actions for every area of life, that we can do to improve.
 
-#### Participate
+We create open learning groups where everyone can be and participate. We create public events where we share what we have learned with others.
 
 
 
