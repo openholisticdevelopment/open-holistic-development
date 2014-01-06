@@ -1,9 +1,13 @@
-open-integrative-development
+Open Holistic Development
 ============================
 
-## Warning
+## Introduction
 
-This page is under construction!
+**Holistic Development** means that we are developing ourselves holistically, not in one or few directions, but we are looking at the totality of Life and develop the best we can in every area of Life. **Open** means that development is shared, free and open for everyone to create, improve, spread, participate, virtually and phyisically.
+
+## Areas of Life
+
+
 
 ## Process
 
