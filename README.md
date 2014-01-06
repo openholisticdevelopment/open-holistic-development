@@ -3,10 +3,37 @@ Open Holistic Development
 
 ## Introduction
 
-**Holistic Development** means that we are developing ourselves holistically, not in one or few directions, but we are looking at the totality of Life and develop the best we can in every area of Life. **Open** means that development is shared, free and open for everyone to create, improve, spread, participate, virtually and phyisically.
+**Holistic Development** means that we are developing ourselves holistically, not in one or few directions, but we are looking at the totality of Life and develop the best we can in every area of Life. **Open** means that development is shared, free and open for everyone to create, improve, spread, participate, etc, virtually and phyisically.
 
 ## Areas of Life
 
+We, personally and collectively, want to develop in all areas of life that are beneficial for our personal and societal development. Here are few examples:
+
+* Being, Awareness
+* Love, Heart, Intuition
+* Acceptance
+* Integrity, Transparency
+* Freedom, Sharing, Giving, Receiving
+* Ethics, Human Dignity, Solidarity, Social Justice
+* Interconnectedness
+* System Thinking
+* Personal Development
+* Communication
+* Relationships
+* Health Development
+* Human Development (Birth, Child, Teen, Adult)
+* Nutrition
+* Ecology, Permaculture, Biology, Mathematics, Physics
+* Technology, Computer Science
+* Economy, Money
+* Entrepreneurship, Oraganizations
+* Building, Design
+* Community, Group processes
+* Democracy
+* Music
+* Pratical Skills
+* ...
+* 
 
 
 ## Process
@@ -41,42 +68,6 @@ Possible outputs:
 
 ## Topics
 
-* Being, Awareness
-* Love, Heart, Intuition
-* Integrity, Transparency
-* Acceptance
-* Freedom, Sharing, Giving, Receiving
-* Ethics, Human Dignity, Solidarity, Social Justice
-* Interconnectedness
-* System Thinking
-* Personal Development
-    * do your best every day.
-    * develop the qualities of exceptional people.
-* Societal Development
-* Communication
-* Relationships
-* Thoughts & Believes
-* Health Development
-* Human Development (Birth, Child, Teen, Adult)
-* Nutrition
-* Permaculture
-* Ecology
-* Biology
-* Mathematics
-* Physics
-* Technology
-* Computer Science
-* Money
-* Economy
-* Entrepreneurship
-* Music
-* Building
-* City & Village design
-* Community
-* Democracy
-* Processes
-* ...
-* 
 
 ## Principles
 
