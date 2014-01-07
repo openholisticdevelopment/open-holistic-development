@@ -22,7 +22,7 @@ Suggested weekly rhythm:
 
 ## Locations:
 
-* [ThinkFarm])(http://berlin.thinkfarm.de/) - the sustainable coworking Space.
+* [ThinkFarm](http://berlin.thinkfarm.de/) - the sustainable coworking Space.
 
 
 ## Events
