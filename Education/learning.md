@@ -12,3 +12,10 @@ How to source the best (big picture/best practices) literature, examples, action
 * ask experts.
 * check Timm Ferris' way of learning and asking questions (DiSSS)
 * ...
+
+
+#### Questions
+
+* If you die tomorrow, what will you share to humanity?
+* What are the topics that everyone on Earth should know about?
+* if you had money, time and resources what will you do?
