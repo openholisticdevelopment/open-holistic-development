@@ -87,4 +87,4 @@ All files are released under the following open source licenses:
 
 ## Contributors
 
-* [Nikolay Georgiev](http://nikolay-georgiev.net/), Berlin, Germany.
+* [Nikolay Georgiev](http://nikolay-georgiev.net/), [Sinnwerkstatt](https://www.sinnwerkstatt.com/), Berlin, Germany.
