@@ -36,7 +36,7 @@ We look at the totality of Life, ask ourselves what we love and what we are curi
 We create open learning groups where everyone can participate and we can develop together. We create public events where we share what we have learned with others. You can:
 
 * Join a learning group or event:
-    * Berlin, Germany
+    * [Berlin, Germany](Berlin.md)
 * Start a learning group or event in your local area.
 
 If there is the desire from other people we can hold also virtual (e.g. Google Hangouts) meetups.
@@ -70,21 +70,6 @@ You can:
 * applicable throughout time (every day and after dozens of years)
 * Inspiration
 * Open Source
-
-
-## Berlin
-
-* start with local events and open source reasearch
-* possible themes:
-    * Love, Heart, Intuition, Acceptance, Being (Jan)
-    * System Thinking, Nutrition (Feb)
-    * Economy (March)
-    * Open Organizations and Entrepreneurship (April)
-* suggested Weekly Rhythm:
-    * once in Monday-Thursday: info meeting
-    * Friday night - get together
-    * Satuday - learn together
-* location: [ThinkFarm](http://berlin.thinkfarm.de/)
 
 
 ## Translations
