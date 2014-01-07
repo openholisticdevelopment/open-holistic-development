@@ -1,15 +1,24 @@
 We start forming learning groups in Berlin.
 
-Possible themes:
-    * Love, Heart, Intuition, Acceptance, Being (Jan)
-    * System Thinking, Nutrition (Feb)
-    * Economy (March)
-    * Open Organizations and Entrepreneurship (April)
+## Learning Groups
 
-Suggested Weekly Rhythm:
-    * once in Monday-Thursday: info meeting
-    * Friday night - get together
-    * Satuday - learn together
+* Love, Heart, Intuition, Acceptance, Being (Jan)
+* System Thinking, Nutrition (Feb)
+* Economy (March)
+* Open Organizations and Entrepreneurship (April)
+
+## Weekly Rhythm:
+
+Suggested weekly rhythm:
+
+* once in Monday-Thursday: info meeting
+* Friday night - get together
+* Satuday - learn together
     
-Locations:
+## Locations:
+
 * [ThinkFarm])(http://berlin.thinkfarm.de/) - the sustainable coworking Space.
+
+## Events
+
+to be shared here.
