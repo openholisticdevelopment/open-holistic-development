@@ -60,8 +60,10 @@ You can:
 
 ## Principles
 
-* Big Picture Communication:
-    * Every idea can be described in one sentence, in one paragraph, in a picture (e.g. before/after or big picture), linked to further explanation/details.
+* Big Picture Communication. Every idea can be:
+    * described in one sentence, in one paragraph,
+    * in a picture (e.g. before/after or big picture)
+    * linked to further explanation/details.
 * Easy to understand, share, do and develop
 * System understanding, communication and teaching/sharing
 * Connected to real life as much as possible
@@ -75,10 +77,10 @@ You can:
 * start with local events and open source reasearch
 * possible themes:
     * Love, Heart, Intuition, Acceptance, Being (Jan)
-    * System Thinking (Feb)
+    * System Thinking, Nutrition (Feb)
     * Economy (March)
-    * Entrepreneurship (April)
-* Weekly Rhythm:
+    * Open Organizations and Entrepreneurship (April)
+* suggested Weekly Rhythm:
     * once in Monday-Thursday: info meeting
     * Friday night - get together
     * Satuday - learn together
