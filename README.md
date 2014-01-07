@@ -53,7 +53,7 @@ We save all our research and all important learnings in [this GitHub repository]
 
 You can:
 
-* [create a GitHub account](https://github.com/) and start [creating and improving the files](https://github.com/openholisticdevelopment/openholisticdevelopment).
+* [create a GitHub account](https://github.com/) and start [creating and improving the files](https://github.com/openholisticdevelopment/openholisticdevelopment). See the [Contribution Guidelines](Contribution_Guidelines.md).
 * [ask and answer any questions in the GitHub issues](https://github.com/openholisticdevelopment/openholisticdevelopment/issues).
 * [fork](https://github.com/openholisticdevelopment/openholisticdevelopment) or [download the repository](https://github.com/openholisticdevelopment/openholisticdevelopment/archive/master.zip), and use it as you wish.
 
@@ -72,14 +72,14 @@ You can:
 * Open Source
 
 
-## Translations
+## Languages
 
-We aim to translate the most inspiring and valuable informations in other language. Feel free to chose what you like and translate it.
+It would be great to have the most inspiring and valuable informations in different languages. Feel free to contribute translations!
 
+## License
 
-## Use
+* [The MIT License (MIT)](LICENSE)
 
-## Create a folder
+## Contributors
 
-* Create a new file or edit a file
-* Enter in the file name your desired directory name with a forward slash at the end, like ``DirectoryName/``, and then the file name. On save, GitHub will automatically create the directory ``DirectoryName/`` containing a file with the given file name.
+* [Nikolay Georgiev](http://nikolay-georgiev.net/), Berlin, Germany.
