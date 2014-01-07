@@ -27,6 +27,7 @@ We develop personally and collectively in all important and beneficial areas of 
 * Music, Pratical Skills
 * ...
 
+
 ## What and How
 
 We look at the totality of Life, ask ourselves what we love and what we are curious about, and dive into it. We learn it, do it and share it with other people.
@@ -76,9 +77,13 @@ You can:
 
 It would be great to have the most inspiring and valuable informations in different languages. Feel free to contribute translations!
 
+
 ## License
 
-* [The MIT License (MIT)](LICENSE)
+All files are released under the following open source licenses:
+
+* [The MIT License](LICENSE)
+
 
 ## Contributors
 
