@@ -1,4 +1,4 @@
-Here are described the usage guidelines for this repository.
+This repository belongs to everyone. Feel free to contribute to it.
 
 ## Online
 
