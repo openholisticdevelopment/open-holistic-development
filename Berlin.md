@@ -27,7 +27,7 @@ Suggested weekly rhythm:
 
 ## Events
 
-to be shared here.
+* [Learning Group: Love, Intuition, Acceptance, Being, #1 Meetup, 10.01.2014](http://www.openom.eu/en/2014/01/learning-group-love-intuition-acceptance-being-1-meetup-10-01-2014-thinkfarm-berlin/), [Facebook Event](https://www.facebook.com/events/1445329859013869/)
 
 
 ## Sponsors
