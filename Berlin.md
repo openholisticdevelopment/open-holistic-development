@@ -33,7 +33,7 @@ Suggested weekly rhythm:
 
 
 
-## Sponsors
+## Supporters
 
 * [Sinnwerkstatt](https://www.sinnwerkstatt.com/) - the sustainable media agency
     * co-creating the idea of open holistic development.
