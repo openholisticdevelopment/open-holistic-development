@@ -25,7 +25,7 @@ Suggested weekly rhythm:
 * [ThinkFarm](http://berlin.thinkfarm.de/) - the sustainable coworking Space.
 
 
-## Events
+## Meetups
 
 * [10.01.2014, 19:00, Learning Group: Love, Intuition, Acceptance, Being, #1 Meetup](http://www.openom.eu/en/2014/01/learning-group-love-intuition-acceptance-being-1-meetup-10-01-2014-thinkfarm-berlin/), [Facebook Event](https://www.facebook.com/events/1445329859013869/)
 * [11.01.2014, 10:00-16:00, Learning Group: Love, Intuition, Acceptance, Being, #2 Meetup](http://www.openom.eu/en/2014/01/learning-group-love-intuition-acceptance-being-1-meetup-10-01-2014-thinkfarm-berlin/), [Facebook Event](https://www.facebook.com/events/228236264014860/)
