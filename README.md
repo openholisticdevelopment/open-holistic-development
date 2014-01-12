@@ -24,7 +24,7 @@ We develop personally and collectively in all important and beneficial areas of 
 * Economy, Money
 * Entrepreneurship, Organizations
 * Community, Group processes, Decision making
-* Music, Pratical Skills
+* Music, Practical Skills
 * ...
 
 
