@@ -4,8 +4,6 @@
 
 * *com* - with, *pati* - suffer. To suffer with.
 
-
-
 ## 4 Mantras in Relationships
 
 [The 4 Mantras by Thich Nhat Hahn](http://www.youtube.com/watch?v=UEUxFNkISnU):
