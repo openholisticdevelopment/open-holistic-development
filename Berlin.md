@@ -27,6 +27,9 @@ Suggested weekly rhythm:
 
 ## Meetups
 
+* 14.01.2014, Self-Compassion with the Heart, 19:00, ThinkFarm, Berlin. Events: [CouchSurfing](https://www.couchsurfing.org/n/events/self-compassion-with-the-heart-berlin), [Facebook](https://www.facebook.com/events/1430900203813012/)
+
+## Past meetups
 * [10.01.2014, 19:00, Learning Group: Love, Intuition, Acceptance, Being, #1 Meetup](http://www.openom.eu/en/2014/01/learning-group-love-intuition-acceptance-being-1-meetup-10-01-2014-thinkfarm-berlin/), [Facebook Event](https://www.facebook.com/events/1445329859013869/)
 * [11.01.2014, 10:00-16:00, Learning Group: Love, Intuition, Acceptance, Being, #2 Meetup](http://www.openom.eu/en/2014/01/learning-group-love-intuition-acceptance-being-1-meetup-10-01-2014-thinkfarm-berlin/), [Facebook Event](https://www.facebook.com/events/228236264014860/)
 * [12.01.2014, 10:00-16:00, Learning Group: Love, Intuition, Acceptance, Being, #3 Meetup](http://www.openom.eu/en/2014/01/learning-group-love-intuition-acceptance-being-1-meetup-10-01-2014-thinkfarm-berlin/), [Facebook Event](https://www.facebook.com/events/228236264014860/)
