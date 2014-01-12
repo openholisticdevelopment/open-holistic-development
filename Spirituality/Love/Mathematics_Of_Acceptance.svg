@@ -27,9 +27,9 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="645.59991"
+     inkscape:cx="475.59991"
      inkscape:cy="371.91112"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g3936"
      showgrid="false"
      units="mm"
      inkscape:window-width="1366"
@@ -232,6 +232,76 @@
          style="stroke-linejoin:round;fill-rule:evenodd;stroke:#76b82a;stroke-width:0.62500000;fill:#76b82a"
          id="path5538" />
     </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2LstartU-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2LstartU">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#ff0000;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.625;stroke-linejoin:round"
+         id="path5307-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2LstartW-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2LstartW">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#ff0000;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.625;stroke-linejoin:round"
+         id="path5414-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lendh-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lendh">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#ff0000;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.625;stroke-linejoin:round"
+         id="path5417-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2LstartWP-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2LstartWP">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#76b82a;fill-rule:evenodd;stroke:#76b82a;stroke-width:0.625;stroke-linejoin:round"
+         id="path5523-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lendhu-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lendhu">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#76b82a;fill-rule:evenodd;stroke:#76b82a;stroke-width:0.625;stroke-linejoin:round"
+         id="path5526-8" />
+    </marker>
   </defs>
   <metadata
      id="metadata4">
@@ -356,31 +426,7 @@
          sodipodi:role="line"
          x="907.97314"
          y="899.38867"
-         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#333333;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L Bold">to a Result</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text3010-6-2-1-9"
-       y="970.66357"
-       x="378.71942"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L Bold"
-       xml:space="preserve"><tspan
-         id="tspan3898-4"
-         style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#808080;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L Bold"
-         y="970.66357"
-         x="378.71942"
-         sodipodi:role="line">success</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text3010-6-2-1-9-3"
-       y="779.34424"
-       x="422.23944"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L Bold"
-       xml:space="preserve"><tspan
-         id="tspan3898-4-3"
-         style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#808080;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L Bold"
-         y="779.34424"
-         x="422.23944"
-         sodipodi:role="line">failure</tspan></text>
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#333333;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L Bold">to Results</tspan></text>
     <g
        id="g4497"
        transform="translate(0,2.5842363)">
@@ -468,41 +514,6 @@
          inkscape:transform-center-x="-6.2454995" />
     </g>
     <g
-       style="stroke-width:1.54598367;stroke-miterlimit:4;stroke-dasharray:none"
-       id="g4242"
-       transform="matrix(0.20532151,-0.40983321,0.40983321,0.20532151,-57.105362,802.13925)">
-      <g
-         id="g4244"
-         transform="matrix(0.20834148,0,0,0.20834148,0.86325537,838.29512)"
-         style="stroke-width:7.42043161;stroke-miterlimit:4;stroke-dasharray:none">
-        <path
-           sodipodi:nodetypes="csssc"
-           inkscape:connector-curvature="0"
-           id="path4246"
-           d="m 205.00001,673.2016 c 0,19.0341 -15.43019,34.46429 -34.46429,34.46429 -19.0341,0 -34.46429,-15.43019 -34.46429,-34.46429 0,-19.0341 15.43019,-34.46429 34.46429,-34.46429 6.41599,0 12.42249,1.75321 17.56657,4.80669"
-           style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:2.5783906;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           transform="matrix(5.7558633,0,0,5.7558633,-133.75704,-3221.0744)" />
-      </g>
-      <path
-         inkscape:transform-center-x="-6.2454995"
-         inkscape:transform-center-y="-1.422495"
-         transform="matrix(0.88958086,0.34039652,-0.49144033,1.2843137,449.9075,158.85846)"
-         d="m 92.451482,622.95197 -10.629125,1e-5 -10.629125,-1e-5 5.314562,-9.20509 5.314563,-9.20509 5.314563,9.20509 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="1.5707963"
-         sodipodi:arg1="0.52359878"
-         sodipodi:r2="6.1367288"
-         sodipodi:r1="12.273457"
-         sodipodi:cy="616.81525"
-         sodipodi:cx="81.822357"
-         sodipodi:sides="3"
-         id="path4248"
-         style="color:#000000;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         sodipodi:type="star" />
-    </g>
-    <g
        id="g4505">
       <text
          sodipodi:linespacing="125%"
@@ -587,58 +598,6 @@
          style="color:#000000;fill:#76b82a;fill-opacity:1;fill-rule:nonzero;stroke:#76b82a;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          sodipodi:type="star" />
     </g>
-    <g
-       style="stroke-width:1.54598367;stroke-miterlimit:4;stroke-dasharray:none"
-       transform="matrix(0.20532151,-0.40983321,0.40983321,0.20532151,471.15552,809.99709)"
-       id="g4453">
-      <g
-         style="stroke-width:7.42043161;stroke-miterlimit:4;stroke-dasharray:none"
-         transform="matrix(0.20834148,0,0,0.20834148,0.86325537,838.29512)"
-         id="g4455">
-        <path
-           transform="matrix(5.7558633,0,0,5.7558633,-133.75704,-3221.0744)"
-           style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#76b82a;stroke-width:2.5783906;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           d="m 205.00001,673.2016 c 0,19.0341 -15.43019,34.46429 -34.46429,34.46429 -19.0341,0 -34.46429,-15.43019 -34.46429,-34.46429 0,-19.0341 15.43019,-34.46429 34.46429,-34.46429 6.41599,0 12.42249,1.75321 17.56657,4.80669"
-           id="path4457"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="csssc" />
-      </g>
-      <path
-         sodipodi:type="star"
-         style="color:#000000;fill:#76b82a;fill-opacity:1;fill-rule:nonzero;stroke:#76b82a;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="path4459"
-         sodipodi:sides="3"
-         sodipodi:cx="81.822357"
-         sodipodi:cy="616.81525"
-         sodipodi:r1="12.273457"
-         sodipodi:r2="6.1367288"
-         sodipodi:arg1="0.52359878"
-         sodipodi:arg2="1.5707963"
-         inkscape:flatsided="false"
-         inkscape:rounded="0"
-         inkscape:randomized="0"
-         d="m 92.451482,622.95197 -10.629125,1e-5 -10.629125,-1e-5 5.314562,-9.20509 5.314563,-9.20509 5.314563,9.20509 z"
-         transform="matrix(0.88958086,0.34039652,-0.49144033,1.2843137,449.9075,158.85846)"
-         inkscape:transform-center-y="-1.422495"
-         inkscape:transform-center-x="-6.2454995" />
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L Bold"
-       x="906.72729"
-       y="981.77527"
-       id="text4473"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="906.72729"
-         y="981.77527"
-         style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#808080;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L Bold"
-         id="tspan4475">success</tspan><tspan
-         sodipodi:role="line"
-         x="906.72729"
-         y="1009.2753"
-         style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#808080;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L Bold"
-         id="tspan4481">failure</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text3010-6-2-1-9-0"
@@ -651,29 +610,75 @@
          x="527.87396"
          sodipodi:role="line"
          id="tspan3088">Past, Present, Future, Situation, Person, ...</tspan></text>
+    <path
+       sodipodi:nodetypes="cccc"
+       style="fill:none;stroke:#ff0000;stroke-width:1.41732287;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2LstartU);marker-end:none"
+       d="m 276.48073,587.37954 99.48805,172.44243 m 19.44097,33.69699 19.49678,33.79372"
+       id="path4763"
+       inkscape:connector-curvature="0" />
     <text
        sodipodi:linespacing="125%"
-       id="text3010-6-2-1-9-00"
-       y="747.13617"
-       x="246.47699"
+       id="text3010-6-2-1-9-3-8"
+       y="784.07031"
+       x="417.37964"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L Bold"
        xml:space="preserve"><tspan
-         id="tspan3898-4-9"
-         style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L Bold"
-         y="747.13617"
-         x="246.47699"
-         sodipodi:role="line">fear</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L Bold"
-       x="792.85101"
-       y="747.13617"
-       id="text3095"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="792.85101"
-         y="747.13617"
-         style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#76b82a;fill-opacity:1;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L Bold"
-         id="tspan3097">love</tspan></text>
+         id="tspan3898-4-3-8"
+         style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#808080;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L Bold"
+         y="784.07031"
+         x="417.37964"
+         sodipodi:role="line">failure</tspan></text>
+    <g
+       transform="translate(0.322,-31.116747)"
+       id="g5001">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4973"
+         d="m 378.40174,948.15372 -2e-5,44.82721"
+         style="fill:#f60000;fill-opacity:1;stroke:#ff0000;stroke-width:1.41732287;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2LstartW);marker-end:url(#Arrow2Lendh)"
+         sodipodi:nodetypes="cc" />
+      <g
+         transform="translate(-0.37698828,0)"
+         id="g3944">
+        <text
+           sodipodi:linespacing="125%"
+           id="text3010-6-2-1-9"
+           y="1016.6636"
+           x="378.71942"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L Bold"
+           xml:space="preserve"><tspan
+             id="tspan3898-4"
+             style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#808080;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L Bold"
+             y="1016.6636"
+             x="378.71942"
+             sodipodi:role="line">success</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3133"
+       transform="translate(0,-31.598766)">
+      <path
+         style="fill:#f60000;fill-opacity:1;stroke:#76b82a;stroke-width:1.41732287;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2LstartWP);marker-end:url(#Arrow2Lendhu)"
+         d="m 906.98461,946.73906 0,42.56589"
+         id="path4980"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <g
+         transform="translate(0.42902148,1.212264)"
+         id="g3936">
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L Bold"
+           x="906.29828"
+           y="1011.7753"
+           id="text4473"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="906.29828"
+             y="1011.7753"
+             style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#808080;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L Bold"
+             id="tspan4481">success, failure</tspan></text>
+      </g>
+    </g>
   </g>
 </svg>

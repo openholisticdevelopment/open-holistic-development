@@ -27,8 +27,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="620.59991"
-     inkscape:cy="371.91112"
+     inkscape:cx="511.04323"
+     inkscape:cy="402.74121"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="mm"
@@ -296,43 +296,42 @@
          x="378.83026"
          sodipodi:role="line"
          id="tspan3928">am Ergebnis</tspan></text>
-    <g
-       id="g3090">
-      <path
-         style="fill:#f60000;fill-opacity:1;stroke:#ff0000;stroke-width:1.41732287;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2LstartW);marker-end:url(#Arrow2Lendh)"
-         d="M 244.85714,585.50504 111.0742,817.22389"
-         id="path3906"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path5276"
-         d="M 382.85714,817.22389 249.0742,585.50504"
-         style="fill:none;stroke:#ff0000;stroke-width:1.41732287;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2LstartU);marker-end:url(#Arrow2LendZ)" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path5280"
-         d="m 381.74861,821.36446 -267.56588,10e-6"
-         style="fill:none;stroke:#ff0000;stroke-width:1.41732287;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2LstartN);marker-end:url(#Arrow2LendX)" />
-    </g>
-    <g
-       transform="translate(0,6)"
-       id="g5695">
-      <path
-         inkscape:connector-curvature="0"
-         id="path5497"
-         d="M 790.85714,579.50504 657.0742,811.22389"
-         style="fill:#f60000;fill-opacity:1;stroke:#76b82a;stroke-width:1.41732287;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2LstartWP);marker-end:url(#Arrow2Lendhu)" />
-      <path
-         style="fill:none;stroke:#76b82a;stroke-width:1.41732287;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2LstartUI);marker-end:url(#Arrow2LendZY)"
-         d="M 928.85714,811.22389 795.0742,579.50504"
-         id="path5499"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:none;stroke:#76b82a;stroke-width:1.41732287;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2LstartNE);marker-end:url(#Arrow2LendXp)"
-         d="m 927.74861,815.36446 -267.56588,10e-6"
-         id="path5501"
-         inkscape:connector-curvature="0" />
-    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path3906"
+       d="M 244.85714,585.50504 111.0742,817.22389"
+       style="fill:#f60000;fill-opacity:1;stroke:#ff0000;stroke-width:1.41732287;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2LstartW);marker-end:url(#Arrow2Lendh)" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:1.41732287;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2LstartU);marker-end:none"
+       d="M 382.85714,817.22389 249.0742,585.50504"
+       id="path5276"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:1.41732287;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2LstartN);marker-end:url(#Arrow2LendX)"
+       d="m 381.74861,821.36446 -267.56588,10e-6"
+       id="path5280"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="cccc"
+       style="fill:none;stroke:#ff0000;stroke-width:1.41732287;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2LstartU);marker-end:none"
+       d="m 273.34052,580.65345 99.48805,172.44243 m 19.44097,33.69699 19.49678,33.79372"
+       id="path4763"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#f60000;fill-opacity:1;stroke:#76b82a;stroke-width:1.41732287;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2LstartWP);marker-end:url(#Arrow2Lendhu)"
+       d="M 790.85714,585.50504 657.0742,817.22389"
+       id="path5497"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5499"
+       d="M 928.85714,817.22389 795.0742,585.50504"
+       style="fill:none;stroke:#76b82a;stroke-width:1.41732287;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2LstartUI);marker-end:url(#Arrow2LendZY)" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5501"
+       d="m 927.74861,821.36446 -267.56588,10e-6"
+       style="fill:none;stroke:#76b82a;stroke-width:1.41732287;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2LstartNE);marker-end:url(#Arrow2LendXp)" />
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L Bold"
@@ -366,18 +365,18 @@
          sodipodi:role="line"
          x="897.97314"
          y="934.38867"
-         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#333333;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L Bold">zum Ergebnis</tspan></text>
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#333333;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L Bold">zu Ergebnissen</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text3010-6-2-1-9-3"
-       y="779.34424"
-       x="432.23944"
+       y="777.34424"
+       x="430.23944"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L Bold"
        xml:space="preserve"><tspan
          id="tspan3898-4-3"
          style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#808080;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L Bold"
-         y="779.34424"
-         x="432.23944"
+         y="777.34424"
+         x="430.23944"
          sodipodi:role="line">Scheitern</tspan></text>
     <g
        id="g4497"
@@ -466,54 +465,28 @@
          inkscape:transform-center-x="-6.2454995" />
     </g>
     <g
-       id="g3944"
-       transform="translate(-0.37698828,0)">
-      <text
-         xml:space="preserve"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L Bold"
-         x="378.71942"
-         y="1016.6636"
-         id="text3010-6-2-1-9"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           x="378.71942"
-           y="1016.6636"
-           style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#808080;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L Bold"
-           id="tspan3898-4">Erfolg</tspan></text>
+       id="g5001">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4973"
+         d="m 378.40174,948.15372 -2e-5,44.82721"
+         style="fill:#f60000;fill-opacity:1;stroke:#ff0000;stroke-width:1.41732287;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2LstartW);marker-end:url(#Arrow2Lendh)"
+         sodipodi:nodetypes="cc" />
       <g
-         transform="matrix(0.20532151,-0.40983321,0.40983321,0.20532151,-57.105362,848.13925)"
-         id="g4242"
-         style="stroke-width:1.54598367;stroke-miterlimit:4;stroke-dasharray:none">
-        <g
-           style="stroke-width:7.42043161;stroke-miterlimit:4;stroke-dasharray:none"
-           transform="matrix(0.20834148,0,0,0.20834148,0.86325537,838.29512)"
-           id="g4244">
-          <path
-             transform="matrix(5.7558633,0,0,5.7558633,-133.75704,-3221.0744)"
-             style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:2.5783906;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-             d="m 205.00001,673.2016 c 0,19.0341 -15.43019,34.46429 -34.46429,34.46429 -19.0341,0 -34.46429,-15.43019 -34.46429,-34.46429 0,-19.0341 15.43019,-34.46429 34.46429,-34.46429 6.41599,0 12.42249,1.75321 17.56657,4.80669"
-             id="path4246"
-             inkscape:connector-curvature="0"
-             sodipodi:nodetypes="csssc" />
-        </g>
-        <path
-           sodipodi:type="star"
-           style="color:#000000;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="path4248"
-           sodipodi:sides="3"
-           sodipodi:cx="81.822357"
-           sodipodi:cy="616.81525"
-           sodipodi:r1="12.273457"
-           sodipodi:r2="6.1367288"
-           sodipodi:arg1="0.52359878"
-           sodipodi:arg2="1.5707963"
-           inkscape:flatsided="false"
-           inkscape:rounded="0"
-           inkscape:randomized="0"
-           d="m 92.451482,622.95197 -10.629125,1e-5 -10.629125,-1e-5 5.314562,-9.20509 5.314563,-9.20509 5.314563,9.20509 z"
-           transform="matrix(0.88958086,0.34039652,-0.49144033,1.2843137,449.9075,158.85846)"
-           inkscape:transform-center-y="-1.422495"
-           inkscape:transform-center-x="-6.2454995" />
+         transform="translate(-0.37698828,0)"
+         id="g3944">
+        <text
+           sodipodi:linespacing="125%"
+           id="text3010-6-2-1-9"
+           y="1016.6636"
+           x="378.71942"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L Bold"
+           xml:space="preserve"><tspan
+             id="tspan3898-4"
+             style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#808080;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L Bold"
+             y="1016.6636"
+             x="378.71942"
+             sodipodi:role="line">Erfolg</tspan></text>
       </g>
     </g>
     <g
@@ -602,55 +575,30 @@
          sodipodi:type="star" />
     </g>
     <g
-       id="g3936"
-       transform="translate(-8.4089785,0)">
+       id="g5044"
+       transform="translate(0.61599998,0)">
+      <path
+         style="fill:#f60000;fill-opacity:1;stroke:#76b82a;stroke-width:1.41732287;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2LstartWP);marker-end:url(#Arrow2Lendhu)"
+         d="m 899.67995,950.41504 0,42.56589"
+         id="path4980"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
       <g
-         id="g4453"
-         transform="matrix(0.20532151,-0.40983321,0.40983321,0.20532151,470.7265,839.99709)"
-         style="stroke-width:1.54598367;stroke-miterlimit:4;stroke-dasharray:none">
-        <g
-           id="g4455"
-           transform="matrix(0.20834148,0,0,0.20834148,0.86325537,838.29512)"
-           style="stroke-width:7.42043161;stroke-miterlimit:4;stroke-dasharray:none">
-          <path
-             sodipodi:nodetypes="csssc"
-             inkscape:connector-curvature="0"
-             id="path4457"
-             d="m 205.00001,673.2016 c 0,19.0341 -15.43019,34.46429 -34.46429,34.46429 -19.0341,0 -34.46429,-15.43019 -34.46429,-34.46429 0,-19.0341 15.43019,-34.46429 34.46429,-34.46429 6.41599,0 12.42249,1.75321 17.56657,4.80669"
-             style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#76b82a;stroke-width:2.5783906;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-             transform="matrix(5.7558633,0,0,5.7558633,-133.75704,-3221.0744)" />
-        </g>
-        <path
-           inkscape:transform-center-x="-6.2454995"
-           inkscape:transform-center-y="-1.422495"
-           transform="matrix(0.88958086,0.34039652,-0.49144033,1.2843137,449.9075,158.85846)"
-           d="m 92.451482,622.95197 -10.629125,1e-5 -10.629125,-1e-5 5.314562,-9.20509 5.314563,-9.20509 5.314563,9.20509 z"
-           inkscape:randomized="0"
-           inkscape:rounded="0"
-           inkscape:flatsided="false"
-           sodipodi:arg2="1.5707963"
-           sodipodi:arg1="0.52359878"
-           sodipodi:r2="6.1367288"
-           sodipodi:r1="12.273457"
-           sodipodi:cy="616.81525"
-           sodipodi:cx="81.822357"
-           sodipodi:sides="3"
-           id="path4459"
-           style="color:#000000;fill:#76b82a;fill-opacity:1;fill-rule:nonzero;stroke:#76b82a;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           sodipodi:type="star" />
-      </g>
-      <text
-         sodipodi:linespacing="125%"
-         id="text4473"
-         y="1011.7753"
-         x="906.72729"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L Bold"
-         xml:space="preserve"><tspan
-           id="tspan4481"
-           style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#808080;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L Bold"
-           y="1011.7753"
+         transform="translate(-8.4089785,4.8882446)"
+         id="g3936">
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L Bold"
            x="906.72729"
-           sodipodi:role="line">Erfolg, Scheitern</tspan></text>
+           y="1011.7753"
+           id="text4473"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="906.72729"
+             y="1011.7753"
+             style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#808080;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L Bold"
+             id="tspan4481">Erfolg, Scheitern</tspan></text>
+      </g>
     </g>
     <text
        sodipodi:linespacing="125%"
@@ -664,29 +612,5 @@
          x="528.146"
          sodipodi:role="line"
          id="tspan3088">Vergangenheit, Gegenwart, Zukunft, Situation, Person, ...</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text3010-6-2-1-9-00"
-       y="747.13617"
-       x="247.995"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L Bold"
-       xml:space="preserve"><tspan
-         id="tspan3898-4-9"
-         style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L Bold"
-         y="747.13617"
-         x="247.995"
-         sodipodi:role="line">Angst</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L Bold"
-       x="793.16998"
-       y="747.13617"
-       id="text3095"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="793.16998"
-         y="747.13617"
-         style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#76b82a;fill-opacity:1;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L Bold"
-         id="tspan3097">Liebe</tspan></text>
   </g>
 </svg>
