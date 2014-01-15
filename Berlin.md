@@ -15,9 +15,9 @@ We are just starting the learning groups are still be formed. Few possible learn
 
 Suggested weekly rhythm:
 
-* once in Monday-Thursday: info meeting
-* Friday night - get together
-* Satuday - learn together
+* Monday-Thursday: one/two meetups
+* Friday night - get together, learn and practice
+* Satuday, Sunday - get together, learn and practice
 
 
 ## Locations:
