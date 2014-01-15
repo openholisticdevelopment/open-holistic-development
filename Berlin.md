@@ -11,7 +11,7 @@ We are just starting the learning groups are still be formed. Few possible learn
 * Open Organizations and Entrepreneurship (April)
 
 
-## Weekly Rhythm:
+## Weekly Rhythm
 
 Suggested weekly rhythm:
 
@@ -19,8 +19,17 @@ Suggested weekly rhythm:
 * Friday night - get together, learn and practice
 * Satuday, Sunday - get together, learn and practice
 
+## Gift Economy
 
-## Locations:
+The meetups are organized from the heart of everyone of us. There are no money strings attached. Every meetup is about sharing, learning and giving.
+
+## Freedom
+
+Everyone coming can co-decide how we organize the meetings. If few people want to explore particular topics, they are free to share the intention in the group, get the whole group together or form a subgroup and do it. We are experimenting and want to have as open and as heartful atmosphere as possible.
+
+Sometimes the topic will be set before the meetup.
+
+## Locations
 
 * [ThinkFarm](http://berlin.thinkfarm.de/) - the sustainable coworking Space.
 
