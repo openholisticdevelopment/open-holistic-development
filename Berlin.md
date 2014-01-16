@@ -21,7 +21,7 @@ Suggested weekly rhythm:
 
 ## For Free
 
-The meetups are organized from the heart of everyone of us for free. There are no money strings attached to meetups. Nobody receives money for organizing them and donations are not requested.
+The meetups are organized from the heart of everyone of us for free. There are no money strings attached to the meetups. Nobody receives money for organizing them and donations are not requested.
 
 Every meetup exists because of the pure intrinsic desire to learn, share and give.
 
