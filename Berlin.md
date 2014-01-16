@@ -19,15 +19,17 @@ Suggested weekly rhythm:
 * Friday night - get together, learn and practice
 * Satuday, Sunday - get together, learn and practice
 
-## Gift Economy
+## For Free
 
-The meetups are organized from the heart of everyone of us. There are no money strings attached. Every meetup is about sharing, learning and giving.
+The meetups are organized from the heart of everyone of us for free. There are no money strings attached to meetups. Nobody receives money for organizing them and donations are not requested.
+
+Every meetup exists because of the pure intrinsic desire to learn, share and give.
 
 ## Freedom
 
 Everyone coming can co-decide how we organize the meetings. If few people want to explore particular topics, they are free to share the intention in the group, get the whole group together or form a subgroup and do it. We are experimenting and want to have as open and as heartful atmosphere as possible.
 
-Sometimes the topic will be set before the meetup.
+Sometimes the topic and way of organizing the group will be defined before the meetup.
 
 ## Locations
 
