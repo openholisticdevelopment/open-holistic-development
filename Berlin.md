@@ -41,7 +41,6 @@ Sometimes the topic and way of organizing the group will be defined before the m
 ### This week
 
 * 17.01.2014, Learning Group: Love, Intuition, Acceptance, Being, Meetup #4, 19:00, ThinkFarm, Berlin. Events: [Meetup](http://www.meetup.com/Love-Acceptance-and-Being/events/160483532/), [CouchSurfing](https://www.couchsurfing.org/n/events/learning-group-love-intuition-acceptance-being-meetup-4-17-01-2014-berlin), [Facebook](https://www.facebook.com/events/585869831483413/)
-* 19.01.214, Hiking on Love and Compassion, 10:00, Grunewald S-Bahn-Station. Events [Facebook](https://www.facebook.com/events/269498456541455/), [CouchSurfing](https://www.couchsurfing.org/n/events/hiking-on-love-and-compassion-berlin), [Meetup](http://www.meetup.com/Love-Acceptance-and-Being/events/161079702/)
 
 ### Next week
 
