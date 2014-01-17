@@ -45,6 +45,7 @@ Sometimes the topic and way of organizing the group will be defined before the m
 
 ### Next week
 
+* 22.01.2014, 13:00: Lunch of Love. ThinkFarm, Berlin. [Facebook](https://www.facebook.com/events/634119726645005/), [CouchSurfing](https://www.couchsurfing.org/n/events/mittagessen-der-liebe-7-mi-22-jan-13-00-thinkfarm-berlin), [Meetup](http://www.meetup.com/Love-Acceptance-and-Being/events/161095322/)
 * 22.01.2014, 19:00: Compassion. Learning from Amma. ThinkFarm, Berlin. [Facebook](https://www.facebook.com/events/419762934821660/), [CouchSurfing](https://www.couchsurfing.org/n/events/compassion-learning-from-amma-22-01-19-00-thinkfarm-berlin), [Meetup](http://www.meetup.com/Love-Acceptance-and-Being/events/161086842/)
 
 ## Past meetups
