@@ -5,7 +5,7 @@ We start forming learning groups in Berlin.
 
 We are just starting the learning groups are still be formed. Few possible learning groups could be:
 
-* Love, Heart, Intuition, Acceptance, Being (Jan)
+* **Love, Heart, Intuition, Acceptance, Being (Jan)** (current)
 * System Thinking, Nutrition (Feb)
 * Economy (March)
 * Open Organizations and Entrepreneurship (April)
