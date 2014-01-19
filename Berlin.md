@@ -40,14 +40,14 @@ Sometimes the topic and way of organizing the group will be defined before the m
 
 ### This week
 
-* 17.01.2014, Learning Group: Love, Intuition, Acceptance, Being, Meetup #4, 19:00, ThinkFarm, Berlin. Events: [Meetup](http://www.meetup.com/Love-Acceptance-and-Being/events/160483532/), [CouchSurfing](https://www.couchsurfing.org/n/events/learning-group-love-intuition-acceptance-being-meetup-4-17-01-2014-berlin), [Facebook](https://www.facebook.com/events/585869831483413/)
+* 22.01.2014, 13:00: Lunch of Love. ThinkFarm, Berlin. [Facebook](https://www.facebook.com/events/634119726645005/), [CouchSurfing](https://www.couchsurfing.org/n/events/mittagessen-der-liebe-7-mi-22-jan-13-00-thinkfarm-berlin), [Meetup](http://www.meetup.com/Love-Acceptance-and-Being/events/161095322/)
+* 22.01.2014, 19:00: Compassion. Learning from Amma. ThinkFarm, Berlin. [Facebook](https://www.facebook.com/events/419762934821660/), [CouchSurfing](https://www.couchsurfing.org/n/events/compassion-learning-from-amma-22-01-19-00-thinkfarm-berlin), [Meetup](http://www.meetup.com/Love-Acceptance-and-Being/events/161086842/)
+* 24.01.2014, 19:00, Learning Group: Love, Intuition, Acceptance, Being, #5. ThinkFarm, Berlin. Events: [Facebook](https://www.facebook.com/events/704804309553752/), [CouchSurfing](https://www.couchsurfing.org/n/events/love-acceptance-being-meetup-5-24-01-2014-thinkfarm-berlin#), [Meetup](http://www.meetup.com/Love-Acceptance-and-Being/events/161393962/)
+
 
 ### Next week
 
-* 22.01.2014, 13:00: Lunch of Love. ThinkFarm, Berlin. [Facebook](https://www.facebook.com/events/634119726645005/), [CouchSurfing](https://www.couchsurfing.org/n/events/mittagessen-der-liebe-7-mi-22-jan-13-00-thinkfarm-berlin), [Meetup](http://www.meetup.com/Love-Acceptance-and-Being/events/161095322/)
-* 22.01.2014, 19:00: Compassion. Learning from Amma. ThinkFarm, Berlin. [Facebook](https://www.facebook.com/events/419762934821660/), [CouchSurfing](https://www.couchsurfing.org/n/events/compassion-learning-from-amma-22-01-19-00-thinkfarm-berlin), [Meetup](http://www.meetup.com/Love-Acceptance-and-Being/events/161086842/)
-* [24.01.2014, 19:00, Learning Group: Love, Intuition, Acceptance, Being, #5. ThinkFarm, Berlin. Events: [Facebook](https://www.facebook.com/events/704804309553752/), [CouchSurfing](https://www.couchsurfing.org/n/events/love-acceptance-being-meetup-5-24-01-2014-thinkfarm-berlin#), [Meetup](http://www.meetup.com/Love-Acceptance-and-Being/events/161393962/), 
-
+* 31.01.2014, 19:00, Heart-centered Circle Communication. ThinkFarm Berlin. Events to be shared soon.
 
 ## Past meetups
 * [10.01.2014, 19:00, Learning Group: Love, Intuition, Acceptance, Being, #1 Meetup](http://www.openom.eu/en/2014/01/learning-group-love-intuition-acceptance-being-1-meetup-10-01-2014-thinkfarm-berlin/), [Facebook Event](https://www.facebook.com/events/1445329859013869/)
@@ -56,7 +56,7 @@ Sometimes the topic and way of organizing the group will be defined before the m
 * 14.01.2014, Self-Compassion with the Heart, 19:00, ThinkFarm, Berlin. Events: [CouchSurfing](https://www.couchsurfing.org/n/events/self-compassion-with-the-heart-berlin), [Facebook](https://www.facebook.com/events/1430900203813012/)
 * 15.01.2014, Lunch of Love, 13:00, ThinkFarm, Berlin. Events: [Facebook](https://www.facebook.com/events/699362803437650/)
 * 15.01.2014, Heart and Compassion Meditation, 19:00, ThinkFarm, Berlin, Events: [Meetup](http://www.meetup.com/Love-Acceptance-and-Being/events/160483412/), [CouchSurfing](https://www.couchsurfing.org/n/events/heart-and-compassion-meditation-berlin), [Facebook](https://www.facebook.com/events/571134756312135/)
-
+* 17.01.2014, Learning Group: Love, Intuition, Acceptance, Being, Meetup #4, 19:00, ThinkFarm, Berlin. Events: [Meetup](http://www.meetup.com/Love-Acceptance-and-Being/events/160483532/), [CouchSurfing](https://www.couchsurfing.org/n/events/learning-group-love-intuition-acceptance-being-meetup-4-17-01-2014-berlin), [Facebook](https://www.facebook.com/events/585869831483413/)
 
 
 ## Supporters
