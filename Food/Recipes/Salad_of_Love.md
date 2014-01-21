@@ -14,7 +14,8 @@ From all 5 types take **EVERYTHING** that You **LOVE** and mix it together.
 
 ## Recommendations
 
-Proprotions: 50% vegetables, 40% fruits, 5$ nuts, 2% small sweet things, 3% herbs.
+* Proprotions: 50% vegetables, 40% fruits, 5$ nuts, 2% small sweet things, 3% herbs.
+* Quality: organic and fresh food.
 
 ## Name
 
