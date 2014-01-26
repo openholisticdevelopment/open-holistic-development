@@ -47,6 +47,7 @@ Sometimes the topic and way of organizing the group will be defined before the m
 
 ### Next week
 
+* 29.01.2014, 13:00: Lunch of Love. ThinkFarm, Berlin. [Facebook](https://www.facebook.com/events/213648442163126/), [CouchSurfing](https://www.couchsurfing.org/n/repeating-events/mittagessen-der-liebe-wednesday-13-00-thinkfarm-berlin-repeats), [Meetup](http://www.meetup.com/Love-Acceptance-and-Being/events/162625852/)
 * 31.01.2014, 19:00, Heart-centered Circle Communication. ThinkFarm Berlin. Events to be shared soon.
 
 ## Past meetups
