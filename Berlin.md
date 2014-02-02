@@ -36,23 +36,23 @@ Sometimes the topic and way of organizing the group will be defined before the m
 * [ThinkFarm](http://berlin.thinkfarm.de/) - the sustainable coworking Space.
 
 
-## Meetups
+## Meetups 2014
 
 ### This week
 
-* 29.01.2014, 13:00: Lunch of Love. ThinkFarm, Berlin. Events: [Facebook](https://www.facebook.com/events/213648442163126/), [CouchSurfing](https://www.couchsurfing.org/n/repeating-events/mittagessen-der-liebe-wednesday-13-00-thinkfarm-berlin-repeats), [Meetup](http://www.meetup.com/Love-Acceptance-and-Being/events/162625852/)
-* 31.01.2014, 19:00, Heart-centered Circle Communication. ThinkFarm Berlin. Events: [Facebook](https://www.facebook.com/events/218730691644175/), [CouchSurfing](https://www.couchsurfing.org/n/events/herzzentrierter-redekreis-uber-liebe-und-akzeptanz-31-1-19-00-thinkfarm-berlin), [Meetup](http://www.meetup.com/Love-Acceptance-and-Being/events/162647702/)
-
+* 05.02, 13:00: Lunch of Love. ThinkFarm, Berlin. Events: [Facebook](https://www.facebook.com/events/266683643497237/), [CouchSurfing](https://www.couchsurfing.org/n/repeating-events/mittagessen-der-liebe-wednesday-13-00-thinkfarm-berlin-repeats), [Meetup](http://www.meetup.com/Love-Acceptance-and-Being/events/dbclrhysdbhb/)
+* 05.02, 19:00: Buddha at the Gas Pump meets Gangaji. ThinkFarm, Berlin. Events: [Facebook](https://www.facebook.com/events/402053023263637/), [CouchSurfing](https://www.couchsurfing.org/n/events/buddha-at-the-gas-pump-meets-gangaji-05-02-19-00-thinkfarm-berlin), [Meetup](https://www.couchsurfing.org/n/events/buddha-at-the-gas-pump-meets-gangaji-05-02-19-00-thinkfarm-berlin)
 
 
 ### Next week
 
-* 05.02.2014, 13:00: Lunch of Love. ThinkFarm, Berlin. Events: Facebook, [CouchSurfing](https://www.couchsurfing.org/n/repeating-events/mittagessen-der-liebe-wednesday-13-00-thinkfarm-berlin-repeats), [Meetup](http://www.meetup.com/Love-Acceptance-and-Being/events/dbclrhysdbhb/)
 
 
 
 ## Past meetups
 
+* 29.01.2014, 13:00: Lunch of Love. ThinkFarm, Berlin. Events: [Facebook](https://www.facebook.com/events/213648442163126/), [CouchSurfing](https://www.couchsurfing.org/n/repeating-events/mittagessen-der-liebe-wednesday-13-00-thinkfarm-berlin-repeats), [Meetup](http://www.meetup.com/Love-Acceptance-and-Being/events/162625852/)
+* 31.01.2014, 19:00, Heart-centered Circle Communication. ThinkFarm Berlin. Events: [Facebook](https://www.facebook.com/events/218730691644175/), [CouchSurfing](https://www.couchsurfing.org/n/events/herzzentrierter-redekreis-uber-liebe-und-akzeptanz-31-1-19-00-thinkfarm-berlin), [Meetup](http://www.meetup.com/Love-Acceptance-and-Being/events/162647702/)
 * 24.01.2014, 19:00, Learning Group: Love, Intuition, Acceptance, Being, #5. ThinkFarm, Berlin. Events: [Facebook](https://www.facebook.com/events/704804309553752/), [CouchSurfing](https://www.couchsurfing.org/n/events/love-acceptance-being-meetup-5-24-01-2014-thinkfarm-berlin#), [Meetup](http://www.meetup.com/Love-Acceptance-and-Being/events/161393962/)
 * 22.01.2014, 13:00: Lunch of Love. ThinkFarm, Berlin. [Facebook](https://www.facebook.com/events/634119726645005/), [CouchSurfing](https://www.couchsurfing.org/n/events/mittagessen-der-liebe-7-mi-22-jan-13-00-thinkfarm-berlin), [Meetup](http://www.meetup.com/Love-Acceptance-and-Being/events/161095322/)
 * 22.01.2014, 19:00: Compassion. Learning from Amma. ThinkFarm, Berlin. [Facebook](https://www.facebook.com/events/419762934821660/), [CouchSurfing](https://www.couchsurfing.org/n/events/compassion-learning-from-amma-22-01-19-00-thinkfarm-berlin), [Meetup](http://www.meetup.com/Love-Acceptance-and-Being/events/161086842/)
