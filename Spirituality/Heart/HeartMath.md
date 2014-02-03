@@ -1,6 +1,6 @@
 HeartMath: http://www.heartmath.com/
 
-## Videos
+## Research
 
 [Mysteries of the Heart ](http://www.youtube.com/watch?v=Kyfm5_LLxow). Quotes:
 * Your heart emits electromagnetic fields that change according to your emotions.
