@@ -23,3 +23,5 @@ HeartMath: http://www.heartmath.com/ - researching the Heart.
 [Science of The Heart: Exploring the Role of the Heart in Human Performance](http://www.heartmath.org/research/science-of-the-heart/introduction.html):
 * [Entrainment, Coherence & Autonomic Balance](http://www.heartmath.org/research/science-of-the-heart/entrainment-coherence-autonomic-balance.html)
 * [Head-Heart Interactions](http://www.heartmath.org/research/science-of-the-heart/head-heart-interactions.html)
+
+[Spirit Science 15 ~ Power of the Heart](http://www.youtube.com/watch?v=7c3AVj66ahg)
