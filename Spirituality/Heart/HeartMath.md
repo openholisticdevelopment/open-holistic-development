@@ -1,4 +1,4 @@
-HeartMath: http://www.heartmath.com/
+HeartMath: http://www.heartmath.com/ - researching the Heart.
 
 ## Research
 
