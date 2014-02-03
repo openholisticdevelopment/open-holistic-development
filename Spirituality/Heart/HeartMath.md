@@ -14,6 +14,8 @@ HeartMath: http://www.heartmath.com/ - researching the Heart.
 * The heart send more information to the brain than vice versa.
 
 [HeartMath® Interventions for Counselors, Therapists, Social Workers and Health Care Professionals](http://hmicertification.heartmath.com/pdf/hmi-manual-7-26-12.pdf)
+
 * The heart generates by far the most powerful and most extensive rhythmic electromagnetic field produced in the body.
-* The magnetic component of the heart’s field, which is approximately 5,000 times stronger than the magnetic field produced by the brain, is not impeded by the body’s tissues and 
-easily radiates beyond the body.
+* The magnetic component of the heart’s field, which is approximately 5,000 times stronger than the magnetic field produced by the brain, is not impeded by the body’s tissues and easily radiates beyond the body.
+* This field can be measured about three feet away from the body.
+* Research has shown that information about a person’s emotional state is communicated not only through out the body but also into the external environment via the heart’s electromagnetic field.
