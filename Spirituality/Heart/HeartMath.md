@@ -13,7 +13,7 @@ HeartMath: http://www.heartmath.com/ - researching the Heart.
 * A mother’s brainwaves can synchronize to her baby’s heartbeats.
 * The heart send more information to the brain than vice versa.
 
-[HeartMath® Interventions for Counselors, Therapists, Social Workers and Health Care Professionals](http://hmicertification.heartmath.com/pdf/hmi-manual-7-26-12.pdf)
+[HeartMath® Interventions for Counselors, Therapists, Social Workers and Health Care Professionals](http://hmicertification.heartmath.com/pdf/hmi-manual-7-26-12.pdf). Quotes:
 
 * The heart generates by far the most powerful and most extensive rhythmic electromagnetic field produced in the body.
 * The magnetic component of the heart’s field, which is approximately 5,000 times stronger than the magnetic field produced by the brain, is not impeded by the body’s tissues and easily radiates beyond the body.
