@@ -39,13 +39,13 @@ Sometimes the topic and way of organizing the group will be defined before the m
 
 ### This week
 
-* 05.02, 13:00: Lunch of Love. ThinkFarm, Berlin. Events: [Facebook](https://www.facebook.com/events/266683643497237/), [CouchSurfing](https://www.couchsurfing.org/n/repeating-events/mittagessen-der-liebe-wednesday-13-00-thinkfarm-berlin-repeats), [Meetup](http://www.meetup.com/Love-Acceptance-and-Being/events/dbclrhysdbhb/)
-* 06.02, 19:00: Buddha at the Gas Pump meets Gangaji. ThinkFarm, Berlin. Events: [Facebook](https://www.facebook.com/events/402053023263637/), [CouchSurfing](https://www.couchsurfing.org/n/events/buddha-at-the-gas-pump-meets-gangaji-05-02-19-00-thinkfarm-berlin), [Meetup](http://www.meetup.com/Love-Acceptance-and-Being/events/164107862/)
-
+* 12.02, 13:00: Lunch of Love. ThinkFarm, Berlin. Events: [Facebook](https://www.facebook.com/events/219131294945683/), [CouchSurfing](https://www.couchsurfing.org/n/events/mittagessen-der-liebe-wednesday-13-00-thinkfarm-berlin--3), [Meetup](http://www.meetup.com/Love-Acceptance-and-Being/events/164837332/)
+* 
 
 ### Next week
 
-
+* 05.02, 13:00: Lunch of Love. ThinkFarm, Berlin. Events: [Facebook](https://www.facebook.com/events/266683643497237/), [CouchSurfing](https://www.couchsurfing.org/n/repeating-events/mittagessen-der-liebe-wednesday-13-00-thinkfarm-berlin-repeats), [Meetup](http://www.meetup.com/Love-Acceptance-and-Being/events/dbclrhysdbhb/)
+* 06.02, 19:00: Buddha at the Gas Pump meets Gangaji. ThinkFarm, Berlin. Events: [Facebook](https://www.facebook.com/events/402053023263637/), [CouchSurfing](https://www.couchsurfing.org/n/events/buddha-at-the-gas-pump-meets-gangaji-05-02-19-00-thinkfarm-berlin), [Meetup](http://www.meetup.com/Love-Acceptance-and-Being/events/164107862/)
 
 
 ## Past meetups
