@@ -80,7 +80,7 @@ It would be great to have the most inspiring and valuable informations in differ
 
 ## License
 
-All files are released under the following open source licenses:
+Except quotes from books or website, all files are released under the following open source licenses:
 
 * [The MIT License](LICENSE)
 
