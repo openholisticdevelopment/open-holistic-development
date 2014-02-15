@@ -4,8 +4,8 @@
 ## Prevention
 
 [Who Knew Preventing Kidney Stones Was this Easy?, by Dr. Mercola](http://articles.mercola.com/sites/articles/archive/2009/06/23/who-knew-preventing-kidney-stones-was-this-easy.aspx). Quotes:
-* The number one risk factor for kidney stones is not drinking enough water.
-    * How do you know if you are drinking enough water? Your urine should be a light yellow.
+* The number one risk factor for kidney stones is not drinking enough water. Waiting until you feel thirsty is often too late. Thirst usually signifies dehydration.
+    * How do you know if you are drinking enough water? Your urine should be a light yellow. 
 * Another risks: being sedentary, high blood pressure, digestive problems, a diet high in sugar, drinking soda, diets high in processed salt, consumption of non-fermented soy.
 * Avoid drinking tea since it is high in oxalates.
 * Prevention:
