@@ -44,6 +44,7 @@ Sometimes the topic and way of organizing the group will be defined before the m
 * 19.02, 13:00: Lunch of Love. ThinkFarm, Berlin. Events: [Facebook](), [CouchSurfing](https://www.couchsurfing.org/n/repeating-events/mittagessen-der-liebe-wednesday-13-00-thinkfarm-berlin-repeats), [Meetup](http://www.meetup.com/Love-Acceptance-and-Being/events/166105642/)
 * 20.02, 19:30: Being. Bentinho Massaro. Buddha at the Gas Pump Interview. ThinkFarm, Berlin. Events: [Facebook](https://www.facebook.com/events/599582690130787/), [CouchSurfing](http://www.meetup.com/Love-Acceptance-and-Being/events/166595302/), [Meetup](http://www.meetup.com/Love-Acceptance-and-Being/events/166595302/)
 * 21.02, 19:00: The Concert of Silence. ThinkFarm, Berlin. Events: [Facebook](https://www.facebook.com/events/219659761571620/), [CouchSurfing](https://www.couchsurfing.org/n/events/the-concert-of-silence-21-02-19-00-thinkfarm-berlin), [Meetup](http://www.meetup.com/Love-Acceptance-and-Being/events/166596942/)
+* 23.02, 19:00: The Concert of Silence. ThinkFarm, Berlin. Events: [Facebook](https://www.facebook.com/events/1409044629345588/), [CouchSurfing](https://www.couchsurfing.org/n/events/the-concert-of-silence-23-02-19-00-thinkfarm-berlin), [Meetup](http://www.meetup.com/Love-Acceptance-and-Being/events/166598522/)
 
 
 ### Next week
