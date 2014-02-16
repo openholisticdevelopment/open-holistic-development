@@ -50,6 +50,10 @@ Sometimes the topic and way of organizing the group will be defined before the m
 ### Next week
 
 
+## March
+
+* 20.03: [Just let yourself sit](http://ministeriumfuerglueck.de/pause/). Berlin. Place and time to be announced. Organized with the [Ministry of Happiness](http://ministeriumfuerglueck.de/).
+
 
 ## Past meetups
 
