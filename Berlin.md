@@ -39,16 +39,22 @@ Sometimes the topic and way of organizing the group will be defined before the m
 
 ### This week
 
-* 12.02, 13:00: Lunch of Love. ThinkFarm, Berlin. Events: [Facebook](https://www.facebook.com/events/219131294945683/), [CouchSurfing](https://www.couchsurfing.org/n/events/mittagessen-der-liebe-wednesday-13-00-thinkfarm-berlin--3), [Meetup](http://www.meetup.com/Love-Acceptance-and-Being/events/164837332/)
-* 
+* 17.02, 19:30: The Concert of Silence. ThinkFarm, Berlin. Events: [Facebook](https://www.facebook.com/events/245409908973382/)
 
 ### Next week
 
-* 05.02, 13:00: Lunch of Love. ThinkFarm, Berlin. Events: [Facebook](https://www.facebook.com/events/266683643497237/), [CouchSurfing](https://www.couchsurfing.org/n/repeating-events/mittagessen-der-liebe-wednesday-13-00-thinkfarm-berlin-repeats), [Meetup](http://www.meetup.com/Love-Acceptance-and-Being/events/dbclrhysdbhb/)
-* 06.02, 19:00: Buddha at the Gas Pump meets Gangaji. ThinkFarm, Berlin. Events: [Facebook](https://www.facebook.com/events/402053023263637/), [CouchSurfing](https://www.couchsurfing.org/n/events/buddha-at-the-gas-pump-meets-gangaji-05-02-19-00-thinkfarm-berlin), [Meetup](http://www.meetup.com/Love-Acceptance-and-Being/events/164107862/)
 
 
 ## Past meetups
+
+
+### February - Being
+
+* 05.02, 13:00: Lunch of Love. ThinkFarm, Berlin. Events: [Facebook](https://www.facebook.com/events/266683643497237/), [CouchSurfing](https://www.couchsurfing.org/n/repeating-events/mittagessen-der-liebe-wednesday-13-00-thinkfarm-berlin-repeats), [Meetup](http://www.meetup.com/Love-Acceptance-and-Being/events/dbclrhysdbhb/)
+* 06.02, 19:00: Buddha at the Gas Pump meets Gangaji. ThinkFarm, Berlin. Events: [Facebook](https://www.facebook.com/events/402053023263637/), [CouchSurfing](https://www.couchsurfing.org/n/events/buddha-at-the-gas-pump-meets-gangaji-05-02-19-00-thinkfarm-berlin), [Meetup](http://www.meetup.com/Love-Acceptance-and-Being/events/164107862/)
+* 12.02, 13:00: Lunch of Love. ThinkFarm, Berlin. Events: [Facebook](https://www.facebook.com/events/219131294945683/), [CouchSurfing](https://www.couchsurfing.org/n/events/mittagessen-der-liebe-wednesday-13-00-thinkfarm-berlin--3), [Meetup](http://www.meetup.com/Love-Acceptance-and-Being/events/164837332/)
+
+### Januar - Love
 
 * 29.01.2014, 13:00: Lunch of Love. ThinkFarm, Berlin. Events: [Facebook](https://www.facebook.com/events/213648442163126/), [CouchSurfing](https://www.couchsurfing.org/n/repeating-events/mittagessen-der-liebe-wednesday-13-00-thinkfarm-berlin-repeats), [Meetup](http://www.meetup.com/Love-Acceptance-and-Being/events/162625852/)
 * 31.01.2014, 19:00, Heart-centered Circle Communication. ThinkFarm Berlin. Events: [Facebook](https://www.facebook.com/events/218730691644175/), [CouchSurfing](https://www.couchsurfing.org/n/events/herzzentrierter-redekreis-uber-liebe-und-akzeptanz-31-1-19-00-thinkfarm-berlin), [Meetup](http://www.meetup.com/Love-Acceptance-and-Being/events/162647702/)
