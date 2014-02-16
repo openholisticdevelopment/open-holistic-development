@@ -39,7 +39,7 @@ Sometimes the topic and way of organizing the group will be defined before the m
 
 ### This week
 
-* 17.02, 19:30: The Concert of Silence. ThinkFarm, Berlin. Events: [Facebook](https://www.facebook.com/events/245409908973382/)
+* 17.02, 19:30: The Concert of Silence. ThinkFarm, Berlin. Events: [Facebook](https://www.facebook.com/events/245409908973382/), [CouchSurfing](https://www.couchsurfing.org/n/events/the-concert-of-silence-17-02-19-30-thinkfarm-berlin), 
 
 ### Next week
 
