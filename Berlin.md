@@ -44,7 +44,7 @@ Sometimes the topic and way of organizing the group will be defined before the m
 
 ### Next week
 
-
+* 14-16.03: Recognizing Awareness. ThinkFarm, Berlin. Events: [Facebook](https://www.facebook.com/events/1427555950823614/), CouchSurfing [Fr](https://www.couchsurfing.org/n/events/recognizing-awareness-14-16-03-berlin), [Sa](https://www.couchsurfing.org/n/repeating-events/recognizing-awareness-14-16-03-berlin-repeats), [Su](https://www.couchsurfing.org/n/events/recognizing-awareness-14-16-03-berlin--3), [Meetup](http://www.meetup.com/Love-Acceptance-and-Being/events/169018032/)
 
 ## March
 
