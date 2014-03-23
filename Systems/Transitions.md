@@ -13,3 +13,6 @@ We can observer the following transitions taking place world-wide:
 * Hierarchy -> Network
 * Parts -> Systems
 * Scarcity -> Abundance
+* Fear -> Love
+* External Motivation -> Intrinsic Motivation
+* 
