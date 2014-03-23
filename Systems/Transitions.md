@@ -11,3 +11,5 @@ We can observer the following transitions taking place world-wide:
 * Against -> With
 * I -> We
 * Hierarchy -> Network
+* Parts -> Systems
+* Scarcity -> Abundance
