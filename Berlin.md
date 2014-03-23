@@ -46,7 +46,10 @@ Sometimes the topic and way of organizing the group will be defined before the m
 
 ### Next week
 
-* Free Hugs in Berlin, more Infos soon.
+* 01.04, 09:00: Free Hugs in Berlin, Alexanderplatz, more Infos soon.
+* 01.04, 11:30: Lunch of Love. ThinkFarm, Berlin. Events soon.
+* 01.04, 18:00: Celebration. Events soon.
+* 06.04, 09:00: Hiking in the Alps, South Germany.
 
 ## Past meetups
 
