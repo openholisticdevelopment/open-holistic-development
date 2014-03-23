@@ -1,5 +1,7 @@
 # Salad of Love
 
+in [German](Salad_of_Love_de.md).
+
 ## Incredients
 
 The Salad of Love consist of 5 types of incredients:
