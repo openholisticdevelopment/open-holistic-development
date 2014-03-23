@@ -19,6 +19,10 @@ From all 5 types take **EVERYTHING** that You **LOVE** and mix it together.
 * Proprotions: 50% vegetables, 40% fruits, 5$ nuts, 2% small sweet things, 3% herbs.
 * Quality: organic and fresh food.
 
+## Photos
+
+See https://www.flickr.com/photos/121218689@N03/
+
 ## Name
 
 It is called the Salad of Love because:
