@@ -40,7 +40,7 @@ Sometimes the topic and way of organizing the group will be defined before the m
 
 ### This week
 
-* 26.03, 13:00: Lunch of Love. ThinkFarm, Berlin. Events: [Facebook](https://www.facebook.com/events/1433415186903168/), [CouchSurfing](), [Meetup]()
+* 26.03, 13:00: Lunch of Love. ThinkFarm, Berlin. Events: [Facebook](https://www.facebook.com/events/1433415186903168/), [CouchSurfing](https://www.couchsurfing.org/n/events/mittagessen-der-liebe-mittwoch-13-00-thinkfarm-berlin--5), [Meetup](http://www.meetup.com/Love-Acceptance-and-Being/events/172939522/)
 * 28.03, 19:00 and on 29.03: Changing the Culture of Birthdays. Berlin and online. Events: [Facebook](https://www.facebook.com/events/1406768639590722/), [CouchSurfing](https://www.couchsurfing.org/n/events/changing-the-culture-of-birthdays-28-29-03-berlin-and-online-berlin), [Meetup](http://www.meetup.com/Love-Acceptance-and-Being/events/172926822/)
 * 30.03, 10:00: Being, Acceptance and Hiking. Grünewald-Nikolassee, Berlin. Events: [Facebook](https://www.facebook.com/events/1434845176753733/), [CouchSurfing](https://www.couchsurfing.org/n/events/being-acceptance-and-hiking-30-03-10-00-grunewald-nikolassee-berlin-berlin), [Meetup](http://www.meetup.com/Love-Acceptance-and-Being/events/172936982/)
 
