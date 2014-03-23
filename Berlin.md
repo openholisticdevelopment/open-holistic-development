@@ -40,21 +40,22 @@ Sometimes the topic and way of organizing the group will be defined before the m
 
 ### This week
 
-* 26.02, 13:00: Lunch of Love. ThinkFarm, Berlin. Events: [Facebook](https://www.facebook.com/events/518310118290509/), [CouchSurfing](https://www.couchsurfing.org/n/repeating-events/mittagessen-der-liebe-mittwoch-13-00-thinkfarm-berlin-repeats), [Meetup](http://www.meetup.com/Love-Acceptance-and-Being/events/167279092/)
+* 26.03, 13:00: Lunch of Love. ThinkFarm, Berlin. Events: [Facebook](), [CouchSurfing](), [Meetup]()
+* 28-29.03: Changing the Culture of Birthdays. Berlin and online. Events: [Facebook](https://www.facebook.com/events/1406768639590722/), [CouchSurfing](https://www.couchsurfing.org/n/events/changing-the-culture-of-birthdays-28-29-03-berlin-and-online-berlin), [Meetup]()
 
 ### Next week
 
-* 14-16.03: Recognizing Awareness. ThinkFarm, Berlin. Events: [Facebook](https://www.facebook.com/events/1427555950823614/), CouchSurfing [Fr](https://www.couchsurfing.org/n/events/recognizing-awareness-14-16-03-berlin), [Sa](https://www.couchsurfing.org/n/repeating-events/recognizing-awareness-14-16-03-berlin-repeats), [Su](https://www.couchsurfing.org/n/events/recognizing-awareness-14-16-03-berlin--3), [Meetup](http://www.meetup.com/Love-Acceptance-and-Being/events/169018032/)
 
 ## March
-
-* 20.03: [Just let yourself sit](http://ministeriumfuerglueck.de/pause/). Berlin. Place and time to be announced. Organized with the [Ministry of Happiness](http://ministeriumfuerglueck.de/).
 
 
 ## Past meetups
 
+* 14-16.03: Recognizing Awareness. ThinkFarm, Berlin. Events: [Facebook](https://www.facebook.com/events/1427555950823614/), CouchSurfing [Fr](https://www.couchsurfing.org/n/events/recognizing-awareness-14-16-03-berlin), [Sa](https://www.couchsurfing.org/n/repeating-events/recognizing-awareness-14-16-03-berlin-repeats), [Su](https://www.couchsurfing.org/n/events/recognizing-awareness-14-16-03-berlin--3), [Meetup](http://www.meetup.com/Love-Acceptance-and-Being/events/169018032/)
+* 20.03: [Just let yourself sit](http://ministeriumfuerglueck.de/pause/). Berlin. Place and time to be announced. Organized with the [Ministry of Happiness](http://ministeriumfuerglueck.de/).
 
 ### February - Being
+
 
 * 05.02, 13:00: Lunch of Love. ThinkFarm, Berlin. Events: [Facebook](https://www.facebook.com/events/266683643497237/), [CouchSurfing](https://www.couchsurfing.org/n/repeating-events/mittagessen-der-liebe-wednesday-13-00-thinkfarm-berlin-repeats), [Meetup](http://www.meetup.com/Love-Acceptance-and-Being/events/dbclrhysdbhb/)
 * 06.02, 19:00: Buddha at the Gas Pump meets Gangaji. ThinkFarm, Berlin. Events: [Facebook](https://www.facebook.com/events/402053023263637/), [CouchSurfing](https://www.couchsurfing.org/n/events/buddha-at-the-gas-pump-meets-gangaji-05-02-19-00-thinkfarm-berlin), [Meetup](http://www.meetup.com/Love-Acceptance-and-Being/events/164107862/)
@@ -65,7 +66,7 @@ Sometimes the topic and way of organizing the group will be defined before the m
 * 20.02, 19:30: Being. Bentinho Massaro. Buddha at the Gas Pump Interview. ThinkFarm, Berlin. Events: [Facebook](https://www.facebook.com/events/599582690130787/), [CouchSurfing](https://www.couchsurfing.org/n/events/being-bentinho-massaro-buddha-at-the-gas-pump-interview-20-02-19-30-berlin), [Meetup](http://www.meetup.com/Love-Acceptance-and-Being/events/166595302/)
 * 21.02, 19:00: The Concert of Silence. ThinkFarm, Berlin. Events: [Facebook](https://www.facebook.com/events/219659761571620/), [CouchSurfing](https://www.couchsurfing.org/n/events/the-concert-of-silence-21-02-19-00-thinkfarm-berlin), [Meetup](http://www.meetup.com/Love-Acceptance-and-Being/events/166596942/)
 * 23.02, 19:00: The Concert of Silence. ThinkFarm, Berlin. Events: [Facebook](https://www.facebook.com/events/1409044629345588/), [CouchSurfing](https://www.couchsurfing.org/n/events/the-concert-of-silence-23-02-19-00-thinkfarm-berlin), [Meetup](http://www.meetup.com/Love-Acceptance-and-Being/events/166598522/)
-
+* 26.02, 13:00: Lunch of Love. ThinkFarm, Berlin. Events: [Facebook](https://www.facebook.com/events/518310118290509/), [CouchSurfing](https://www.couchsurfing.org/n/repeating-events/mittagessen-der-liebe-mittwoch-13-00-thinkfarm-berlin-repeats), [Meetup](http://www.meetup.com/Love-Acceptance-and-Being/events/167279092/)
 
 ### Januar - Love
 
