@@ -8,3 +8,4 @@ We can observer the following transitions taking place world-wide:
 * Consume -> Co-develop
 * I -> We
 * Hierarchy -> Network
+* Take -> Give
