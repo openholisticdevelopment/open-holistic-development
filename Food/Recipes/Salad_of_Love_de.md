@@ -1,5 +1,7 @@
 # Salat der Liebe
 
+in [English](Salad_of_Love.md).
+
 ## Zutaten
 
 Der Salat der Liebe besteht aus 5 Arten von Zutaten:
