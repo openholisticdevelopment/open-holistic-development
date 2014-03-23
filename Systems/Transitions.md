@@ -15,4 +15,5 @@ We can observer the following transitions taking place world-wide:
 * Scarcity -> Abundance
 * Fear -> Love
 * External Motivation -> Intrinsic Motivation
-* 
+* Passive -> Active
+* Indifference -> Responsibility
