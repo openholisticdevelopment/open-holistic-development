@@ -41,7 +41,7 @@ Sometimes the topic and way of organizing the group will be defined before the m
 ### This week
 
 * 26.03, 13:00: Lunch of Love. ThinkFarm, Berlin. Events: [Facebook](), [CouchSurfing](), [Meetup]()
-* 28-29.03: Changing the Culture of Birthdays. Berlin and online. Events: [Facebook](https://www.facebook.com/events/1406768639590722/), [CouchSurfing](https://www.couchsurfing.org/n/events/changing-the-culture-of-birthdays-28-29-03-berlin-and-online-berlin), [Meetup]()
+* 28-29.03: Changing the Culture of Birthdays. Berlin and online. Events: [Facebook](https://www.facebook.com/events/1406768639590722/), [CouchSurfing](https://www.couchsurfing.org/n/events/changing-the-culture-of-birthdays-28-29-03-berlin-and-online-berlin), [Meetup](http://www.meetup.com/Love-Acceptance-and-Being/events/172926822/)
 
 ### Next week
 
