@@ -46,7 +46,7 @@ Sometimes the topic and way of organizing the group will be defined before the m
 
 ### Next week
 
-
+* Free Hugs in Berlin, more Infos soon.
 
 ## Past meetups
 
