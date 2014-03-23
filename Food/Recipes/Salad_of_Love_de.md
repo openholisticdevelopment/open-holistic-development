@@ -19,6 +19,10 @@ Von allen fünf Arten, Du nimmst **ALLES** was Du liebst und mischt es zusammen.
 * Proportionen: 50% Gemüse, 40% Obst, 5$ Nüsse, 2% Süßigkeiten, 3% Kräuter und Gewürze.
 * Quality: organic and fresh food.
 
+## Fotos
+
+Siehe https://www.flickr.com/photos/121218689@N03/
+
 ## Name
 
 Es heißt Salat der Liebe, weil
