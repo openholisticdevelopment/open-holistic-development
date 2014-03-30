@@ -46,9 +46,8 @@ Sometimes the topic and way of organizing the group will be defined before the m
 
 ### Next week
 
-* 01.04, 09:00: Free Hugs in Berlin, Alexanderplatz, more Infos soon.
-* 01.04, 11:30: Lunch of Love. ThinkFarm, Berlin. Events soon.
-* 01.04, 18:00: Celebration. Events soon.
+* 01.04, 09:00: Free Hugs in Berlin, Alexanderplatz. Events: [Facebook](https://www.facebook.com/events/1400878806851386/) [CouchSurfing](https://www.couchsurfing.org/n/events/free-hugs-berlin-alexanderplatz-01-04-09-00-11-00-berlin) [Meetup](http://www.meetup.com/Love-Acceptance-and-Being/events/174247212/)
+* 02.04, 13:00: Lunch of Love. Events: [Facebook](https://www.facebook.com/events/498664613573436/)
 * 06.04, 09:00: Hiking in the Alps, South Germany.
 
 ## Past meetups
