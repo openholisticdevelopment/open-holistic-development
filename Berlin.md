@@ -40,20 +40,28 @@ Sometimes the topic and way of organizing the group will be defined before the m
 
 ### This week
 
+* 23.03, 13:00: Lunch of Love. ThinkFarm, Berlin. Events: [Facebook](https://www.facebook.com/events/811823108848140/), [CouchSurfing](https://www.couchsurfing.org/n/repeating-events/mittagessen-der-liebe-lunch-of-love-wed-13-00-thinkfarm-berlin-repeats), [Meetup]().
+
+
+### Next week
+
+
+## Past meetups
+
+### April - Being
+
+* 01.04, 09:00: Free Hugs in Berlin, Alexanderplatz. Events: [Facebook](https://www.facebook.com/events/1400878806851386/) [CouchSurfing](https://www.couchsurfing.org/n/events/free-hugs-berlin-alexanderplatz-01-04-09-00-11-00-berlin) [Meetup](http://www.meetup.com/Love-Acceptance-and-Being/events/174247212/)
+* 02.04, 13:00: Lunch of Love. Events: [Facebook](https://www.facebook.com/events/498664613573436/)
+
+
+### March - Being
+
+* 14-16.03: Recognizing Awareness. ThinkFarm, Berlin. Events: [Facebook](https://www.facebook.com/events/1427555950823614/), CouchSurfing [Fr](https://www.couchsurfing.org/n/events/recognizing-awareness-14-16-03-berlin), [Sa](https://www.couchsurfing.org/n/repeating-events/recognizing-awareness-14-16-03-berlin-repeats), [Su](https://www.couchsurfing.org/n/events/recognizing-awareness-14-16-03-berlin--3), [Meetup](http://www.meetup.com/Love-Acceptance-and-Being/events/169018032/)
+* 20.03: [Just let yourself sit](http://ministeriumfuerglueck.de/pause/). Berlin. Place and time to be announced. Organized with the [Ministry of Happiness](http://ministeriumfuerglueck.de/).
 * 26.03, 13:00: Lunch of Love. ThinkFarm, Berlin. Events: [Facebook](https://www.facebook.com/events/1433415186903168/), [CouchSurfing](https://www.couchsurfing.org/n/events/mittagessen-der-liebe-mittwoch-13-00-thinkfarm-berlin--5), [Meetup](http://www.meetup.com/Love-Acceptance-and-Being/events/172939522/)
 * 28.03, 19:00 and on 29.03: Changing the Culture of Birthdays. Berlin and online. Events: [Facebook](https://www.facebook.com/events/1406768639590722/), [CouchSurfing](https://www.couchsurfing.org/n/events/changing-the-culture-of-birthdays-28-29-03-berlin-and-online-berlin), [Meetup](http://www.meetup.com/Love-Acceptance-and-Being/events/172926822/)
 * 30.03, 10:00: Being, Acceptance and Hiking. Grünewald-Nikolassee, Berlin. Events: [Facebook](https://www.facebook.com/events/1434845176753733/), [CouchSurfing](https://www.couchsurfing.org/n/events/being-acceptance-and-hiking-30-03-10-00-grunewald-nikolassee-berlin-berlin), [Meetup](http://www.meetup.com/Love-Acceptance-and-Being/events/172936982/)
 
-### Next week
-
-* 01.04, 09:00: Free Hugs in Berlin, Alexanderplatz. Events: [Facebook](https://www.facebook.com/events/1400878806851386/) [CouchSurfing](https://www.couchsurfing.org/n/events/free-hugs-berlin-alexanderplatz-01-04-09-00-11-00-berlin) [Meetup](http://www.meetup.com/Love-Acceptance-and-Being/events/174247212/)
-* 02.04, 13:00: Lunch of Love. Events: [Facebook](https://www.facebook.com/events/498664613573436/)
-* 06.04, 09:00: Hiking in the Alps, South Germany.
-
-## Past meetups
-
-* 14-16.03: Recognizing Awareness. ThinkFarm, Berlin. Events: [Facebook](https://www.facebook.com/events/1427555950823614/), CouchSurfing [Fr](https://www.couchsurfing.org/n/events/recognizing-awareness-14-16-03-berlin), [Sa](https://www.couchsurfing.org/n/repeating-events/recognizing-awareness-14-16-03-berlin-repeats), [Su](https://www.couchsurfing.org/n/events/recognizing-awareness-14-16-03-berlin--3), [Meetup](http://www.meetup.com/Love-Acceptance-and-Being/events/169018032/)
-* 20.03: [Just let yourself sit](http://ministeriumfuerglueck.de/pause/). Berlin. Place and time to be announced. Organized with the [Ministry of Happiness](http://ministeriumfuerglueck.de/).
 
 ### February - Being
 
