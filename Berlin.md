@@ -40,7 +40,7 @@ Sometimes the topic and way of organizing the group will be defined before the m
 
 ### This week
 
-* 23.03, 13:00: Lunch of Love. ThinkFarm, Berlin. Events: [Facebook](https://www.facebook.com/events/811823108848140/), [CouchSurfing](https://www.couchsurfing.org/n/repeating-events/mittagessen-der-liebe-lunch-of-love-wed-13-00-thinkfarm-berlin-repeats), [Meetup]().
+* 23.04, 13:00: Lunch of Love. ThinkFarm, Berlin. Events: [Facebook](https://www.facebook.com/events/811823108848140/), [CouchSurfing](https://www.couchsurfing.org/n/repeating-events/mittagessen-der-liebe-lunch-of-love-wed-13-00-thinkfarm-berlin-repeats), [Meetup]().
 
 
 ### Next week
