@@ -16,7 +16,7 @@ Von allen fünf Arten, Du nimmst **ALLES** was Du liebst und mischt es zusammen.
 
 ## Empfehlungen
 
-* Proportionen: 50% Gemüse, 40% Obst, 5$ Nüsse, 2% Süßigkeiten, 3% Kräuter und Gewürze.
+* Proportionen: 50% Gemüse, 40% Obst, 5% Nüsse, 2% Süßigkeiten, 3% Kräuter und Gewürze.
 * Quality: organic and fresh food.
 
 ## Fotos
