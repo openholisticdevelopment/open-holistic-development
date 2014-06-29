@@ -21,7 +21,7 @@ From all 5 types take **EVERYTHING** that You **LOVE** and mix it together.
 
 ## Photos
 
-See https://www.flickr.com/photos/121218689@N03/
+See https://www.flickr.com/photos/121218689@N03/sets/72157642812724825/
 
 ## Name
 
