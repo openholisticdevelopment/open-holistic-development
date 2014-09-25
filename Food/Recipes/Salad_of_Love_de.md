@@ -9,19 +9,19 @@ Der Salat der Liebe besteht aus 5 Arten von Zutaten:
 * **Gemüse**
 * **Obst**
 * **Nüsse**
-* **Kleine süße Dinge**
+* **Kleine süße Köstlichkeiten**
 * **Kräuter und Gewürze**
 
 Von allen fünf Arten, Du nimmst **ALLES** was Du liebst und mischt es zusammen.
 
 ## Empfehlungen
 
-* Proportionen: 50% Gemüse, 40% Obst, 5% Nüsse, 2% Süßigkeiten, 3% Kräuter und Gewürze.
-* Quality: organic and fresh food.
+* Proportionen: 50% Gemüse, 40% Obst, 5% Nüsse, 2% süße Köstlichkeiten, 3% Kräuter und Gewürze.
+* Qualität: bio, roh und frisch.
 
-## Fotos
+## Bilder
 
-Siehe https://www.flickr.com/photos/121218689@N03/sets/72157642812724825/
+Siehe: https://www.flickr.com/photos/121218689@N03/sets/72157642812724825/
 
 ## Name
 
